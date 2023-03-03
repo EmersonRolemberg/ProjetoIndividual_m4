@@ -14,7 +14,7 @@ Sim, foram adicionadas as entidades instituição e facilitador.
 
 2 - Quais são os principais campos e tipos?
 
-Os campos e tipos seguem abaixo no Módelo Conceitual e Lógico, os principais são: Facilitador,Aluno e turmas.
+Os campos e tipos seguem abaixo no Módelo Conceitual e Lógico, os principais são: Facilitador e Aluno.
 
 3 - Como essas entidades estão relacionadas?
 Aluno e Facilitador recebe o relacionamento Muitos para Muitos. Instituicao e Aluno 1 pra N. Curso e Aluno 1 pra N. Curso e turma 1 pra N. Instituicao e Facilitador 1 pra N. Turma e Facilitador 1 pra N.

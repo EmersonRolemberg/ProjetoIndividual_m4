@@ -1,5 +1,5 @@
 Banco de Dados - Módulo 4
-O projeto é  um Banco de Dados desenvolvido em MySQL feito funcionar como um sistema de acompanhamento aonde foi pedido as entidades: cursos, turmas e alunos. As entidades adicionadas foram Instituição e turmas.
+O projeto é  um Banco de Dados desenvolvido em MySQL feito funcionar como um sistema de acompanhamento aonde foi pedido as entidades: cursos, turmas e alunos. As entidades adicionadas foram Instituição e facilitador.
 
 
 Ferramentas Utilizadas no Projeto
@@ -10,11 +10,11 @@ Perguntas:
 
 1 - Existem outras entidades além dessas três?
 
-Sim, foram adicionadas as entidades instituição e turmas.
+Sim, foram adicionadas as entidades instituição e facilitador.
 
 2 - Quais são os principais campos e tipos?
 
-Os campos e tipos seguem abaixo no Módelo Conceitual e Lógico, os principais são: Facilitador e Aluno.
+Os campos e tipos seguem abaixo no Módelo Conceitual e Lógico, os principais são: Facilitador,Aluno e turmas.
 
 3 - Como essas entidades estão relacionadas?
 Aluno e Facilitador recebe o relacionamento Muitos para Muitos. Instituicao e Aluno 1 pra N. Curso e Aluno 1 pra N. Curso e turma 1 pra N. Instituicao e Facilitador 1 pra N. Turma e Facilitador 1 pra N.
